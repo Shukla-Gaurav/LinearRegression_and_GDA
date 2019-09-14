@@ -2,23 +2,23 @@
 
 -------------------------------------Running run.sh--------------------------------------------------------
 
-Question 1
+Question 1 **(Linear Regression)**
 
 **./run.sh 1 <path_of_file_containing_x> <path_of_file_containing_y> <learning rate> <time_gap_in_seconds>**
  
 This should run the batch gradient descent with the provided learning rate, print the answer to part (a) and generate different 
 plots corresponding to other parts.
 
-Question 2
+Question 2 **(Locally Weighted Linear Regression)**
 
 **./run.sh 2 <path_of_file_containing_x> <path_of_file_containing_y> <tau>**
 
-Question 3
+Question 3 **(Logistic Regression)**
 
 **./run.sh 3 <path_of_file_containing_x> <path_of_file_containing_y>**
  
 
-Question 4
+Question 4 **(GDA)**
 
 1. For part a,b,c (linear separator)
 
